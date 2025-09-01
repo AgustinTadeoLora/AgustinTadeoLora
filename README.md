@@ -7,8 +7,8 @@
 [<img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=white" />](https://www.linkedin.com/in/agustin-lora-b847a034a)
 
 </p>
-Sobre mi: 
-Me llamoa agustin lora, tengo 26 años y vivo en La Plata Bs as. Actualmente estoy trabajando como masajista pero mi objetivo en
+Sobre mi: <br>
+Me llamo agustin lora, tengo 26 años y vivo en La Plata Bs as. Actualmente estoy trabajando como masajista pero mi objetivo en
 la vida es trabajar con la tecnologia y los datos especializandome en sql server, python, power bi y excel.
 
 Actualmente estoy buscando expandir mi stack tecnologico y mis habilidades en el campo de los datos con muchisimas ganas de trabajar
