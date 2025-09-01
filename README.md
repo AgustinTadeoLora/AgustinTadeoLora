@@ -1,6 +1,8 @@
 <h1 align="center">Hola! soy Agustin Lora 💼</h1>
 
-<img width="1584" height="396" alt="Banner (2)" src="https://github.com/user-attachments/assets/300742f9-8750-4ac9-956c-a986d2c904dd" />
+<img width="1584" height="396" alt="Banner (2)" src="https://github.com/user-attachments/assets/19e41ec2-0e5e-4068-bbd2-a77b8d58c09b" />
+
+
 <br>
 <p align = "center">
 
