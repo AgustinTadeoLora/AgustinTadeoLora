@@ -25,6 +25,9 @@ Librerias: <br>
  - NumPy ✨<br>
  - Matplotlib📊<br>
  - Seaborn 🎨<br>
+ - Sklearn
+ - Scipy
+ - Statsmodels
 <br>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
  -T-SQL 📝 <br>
