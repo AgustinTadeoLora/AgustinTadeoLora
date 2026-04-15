@@ -1,6 +1,6 @@
 <h1 align="center">Hola! soy Agustin Lora 💼</h1>
 
-<img width="1584" height="396" alt="Banner (2)" src="https://github.com/user-attachments/assets/19e41ec2-0e5e-4068-bbd2-a77b8d58c09b" />
+<img width="100%" src="https://raw.githubusercontent.com/AgustinTadeoLora/AgustinTadeoLora/main/Banner%20para%20Linkedin%20Licenciada%20Marketing%20Minimalista%20Beige.png" />
 
 <br>
 <p align = "center">
