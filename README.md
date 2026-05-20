@@ -1,72 +1,89 @@
-<h1 align="center">Hola! soy Agustin Lora 💼</h1>
+<h1 align="center">Hola, soy Agustín Lora 💼</h1>
+
+<p align="center">
+Backend Developer en formación | Java + Spring Boot | APIs REST | Arquitectura escalable
+</p>
 
 <img width="100%" src="https://raw.githubusercontent.com/AgustinTadeoLora/AgustinTadeoLora/main/Banner%20para%20Linkedin%20Licenciada%20Marketing%20Minimalista%20Beige.png" />
 
 <br>
-<p align = "center">
 
-[<img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=white" />](https://www.linkedin.com/in/agustin-lora-b847a034a)
-
+<p align="center">
+<a href="https://www.linkedin.com/in/agustin-lora-b847a034a">
+<img src="https://img.shields.io/badge/LinkedIn-Conectar-black?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+</a>
 </p>
-
-## Sobre mi:
-Me llamo Agustin Lora, tengo 26 años y vivo en La Plata, Bs As. Actualmente estoy enfocado en desarrollarme como **Backend Developer Java**, con experiencia en el desarrollo de APIs REST utilizando Spring Boot y el ecosistema Spring.
-
-Estoy en proceso de transición al mundo IT, construyendo proyectos reales orientados a backend, aplicando buenas prácticas de arquitectura, seguridad y persistencia de datos. Mi objetivo es trabajar en desarrollo backend, creando soluciones escalables y mantenibles.
 
 ---
 
-## Mi stack:
+## Sobre mí
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+Soy Agustín Lora, tengo 26 años y vivo en La Plata, Buenos Aires. Actualmente estoy enfocado en formarme como **Backend Developer Java**, construyendo una base sólida en desarrollo de APIs y arquitectura backend moderna.
 
-**Backend:**
-- Spring Boot ⚙️  
-- Spring Web 🌐  
-- Spring Security 🔐  
-- Spring Data JPA 📦  
-- Hibernate 🗄️  
-- APIs REST 🔗  
-- Microservicios 🧩  
-- JWT 🔑  
+Vengo de un proceso de transición al mundo IT, donde decidí enfocarme en lo práctico: aprender construyendo sistemas reales, no solo teoría. Hoy mi enfoque está puesto en desarrollar aplicaciones backend completas con **Spring Boot**, aplicando buenas prácticas de diseño, seguridad y persistencia de datos.
 
-**Testing:**
-- JUnit 🧪  
-- Mockito 🎭  
+Trabajo con una mentalidad orientada a producción: código mantenible, escalable y pensado para crecer. Me interesa especialmente el diseño de APIs, la separación por capas y la construcción de sistemas que se comporten como lo hacen en entornos reales.
 
-**Base de datos:**
+---
+
+## Stack principal
+
+### Lenguaje base
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+
+### Backend
+- Spring Boot
+- Spring Web
+- Spring Security (JWT)
+- Spring Data JPA
+- Hibernate
+- Diseño de APIs REST
+- Arquitectura en capas (Controller / Service / Repository)
+- Modelado de dominios
+
+### Testing
+- JUnit
+- Mockito
+
+### Bases de datos
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-- Modelado de datos 🗄️  
-- Relaciones (JPA) 🔗  
-- Consultas SQL 📊  
+- Diseño relacional
+- SQL
+- Relaciones JPA
+- Optimización básica de consultas
 
-**Herramientas:**
+### Herramientas
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 ---
 
-## Otros conocimientos:
+## Cómo trabajo
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+No me enfoco en aprender herramientas aisladas, sino en entender cómo se conecta todo dentro de un sistema real.
 
-- Pandas 🐼  
-- NumPy ✨  
-- Matplotlib 📊  
-- Seaborn 🎨  
+- Construyo proyectos completos de backend, no ejercicios sueltos  
+- Priorizo arquitectura clara antes que features rápidas  
+- Busco que cada proyecto cierre en algo funcional y demostrable  
+- Aplico seguridad, persistencia y separación por capas desde el inicio  
+- Itero sobre proyectos para mejorarlos en lugar de abandonarlos  
 
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+---
 
-- T-SQL 📝  
-- Procedimientos almacenados 📦  
-- Vistas 👀  
-- Índices 🏷️  
+## En qué estoy ahora
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="power bi"/>
+Actualmente estoy profundizando en:
 
-- DAX 📐  
-- Modelado de datos 🗄️  
-- Dashboards 📊  
+- Spring Security con JWT en escenarios reales  
+- Diseño de APIs más robustas y escalables  
+- Mejores prácticas de arquitectura backend  
+- Construcción de proyectos portfolio orientados a empleo  
+
+---
+
+## Objetivo
+
+Mi objetivo es insertarme profesionalmente como **Backend Java Developer**, participando en equipos donde se trabaje con sistemas reales, buenas prácticas y crecimiento técnico constante.
