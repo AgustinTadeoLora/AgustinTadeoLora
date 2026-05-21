@@ -1,10 +1,10 @@
 <h1 align="center">Hola, soy Agustín Lora 💼</h1>
 
 <p align="center">
-Backend Developer en formación | Java + Spring Boot | APIs REST | Arquitectura escalable
+Data Analyst | BI Specialist | SQL | Data-Driven Solutions
 </p>
 
-<img width="100%" src="https://raw.githubusercontent.com/AgustinTadeoLora/AgustinTadeoLora/main/Banner%20para%20Linkedin%20Licenciada%20Marketing%20Minimalista%20Beige.png" />
+<img width="100%" src="https://github.com/AgustinTadeoLora/AgustinTadeoLora/blob/main/banner.png?raw=true" />
 
 <br>
 
@@ -18,58 +18,52 @@ Backend Developer en formación | Java + Spring Boot | APIs REST | Arquitectura 
 
 ## Sobre mí
 
-Soy Agustín Lora, tengo 26 años y vivo en La Plata, Buenos Aires. Actualmente estoy enfocado en formarme como **Backend Developer Java**, construyendo una base sólida en desarrollo de APIs y arquitectura backend moderna.
+Soy Agustín Lora, tengo 27 años y vivo en La Plata, Buenos Aires. Actualmente estoy enfocado en desarrollarme como **Analista de Datos y Especialista en BI**, construyendo soluciones analíticas que transformen datos crudos en decisiones de negocio claras y predecibles.
 
-Vengo de un proceso de transición al mundo IT, donde decidí enfocarme en lo práctico: aprender construyendo sistemas reales, no solo teoría. Hoy mi enfoque está puesto en desarrollar aplicaciones backend completas con **Spring Boot**, aplicando buenas prácticas de diseño, seguridad y persistencia de datos.
+Vengo con un sólido background en lógica de programación y estructuras de sistemas (Java/Spring Boot). Este enfoque técnico me da una ventaja competitiva clave: no solo sé interpretar un gráfico, sino que comprendo a fondo cómo se estructuran, viajan y almacenan los datos desde la infraestructura original del software.
 
-Trabajo con una mentalidad orientada a producción: código mantenible, escalable y pensado para crecer. Me interesa especialmente el diseño de APIs, la separación por capas y la construcción de sistemas que se comporten como lo hacen en entornos reales.
+Trabajo con una mentalidad orientada a la eficiencia del negocio: modelos de datos limpios, consultas optimizadas y tableros visuales interactivos que responden a preguntas estratégicas reales (ventas, costos, rendimiento y comportamiento de usuarios).
 
 ---
 
 ## Stack principal
 
-### Lenguaje base
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+### Business Intelligence & Análisis
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 
-### Backend
-- Spring Boot
-- Spring Web
-- Spring Security (JWT)
-- Spring Data JPA
-- Hibernate
-- Diseño de APIs REST
-- Arquitectura en capas (Controller / Service / Repository)
-- Modelado de dominios
+- Modelado de datos (Estrella / Copo de Nieve)
+- Desarrollo de métricas y medidas en **DAX**
+- Reportes e informes corporativos automatizados
+- Tablas dinámicas y funciones avanzadas (XLOOKUP)
 
-### Testing
-- JUnit
-- Mockito
+### Bases de datos & SQL
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-### Bases de datos
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+- Diseño relacional y normalización de tablas
+- Escritura de queries avanzadas (**JOINS**, Subconsultas, Funciones de ventana)
+- Limpieza, filtrado y auditoría de datos crudos (ETL)
+- Optimización de consultas para reportes
 
-- Diseño relacional
-- SQL
-- Relaciones JPA
-- Optimización básica de consultas
+### Programación & Automatización
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
-### Herramientas
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+- Manipulación y análisis exploratorio de datos (EDA) con **Pandas** y **NumPy**
+- Implementación de modelos de **Machine Learning** fundamentales para análisis predictivo y segmentación
+- Uso de **Scikit-Learn** para el ciclo de modelado (preprocesamiento, entrenamiento y evaluación)
+
+### Herramientas de infraestructura
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 ---
 
 ## Cómo trabajo
 
-No me enfoco en aprender herramientas aisladas, sino en entender cómo se conecta todo dentro de un sistema real.
+No me limito a crear gráficos estéticos; busco entender el "para qué" detrás de cada número.
 
-- Construyo proyectos completos de backend, no ejercicios sueltos  
-- Priorizo arquitectura clara antes que features rápidas  
-- Busco que cada proyecto cierre en algo funcional y demostrable  
-- Aplico seguridad, persistencia y separación por capas desde el inicio  
-- Itero sobre proyectos para mejorarlos en lugar de abandonarlos  
+- **Foco en el negocio:** Traduzco requerimientos técnicos a métricas financieras o de operación entendibles.
+- **Doble validación:** Utilizo consultas SQL puras para contrastar y asegurar que los números de mis tableros sean 100% precisos.
+- **Arquitectura limpia:** Diseño modelos de datos ordenados que permitan actualizaciones rápidas y escalables.
+- **Mentalidad de desarrollo:** Aplico control de versiones (Git) y entornos controlados (Docker) en mis flujos de datos.
 
 ---
 
@@ -77,13 +71,12 @@ No me enfoco en aprender herramientas aisladas, sino en entender cómo se conect
 
 Actualmente estoy profundizando en:
 
-- Spring Security con JWT en escenarios reales  
-- Diseño de APIs más robustas y escalables  
-- Mejores prácticas de arquitectura backend  
-- Construcción de proyectos portfolio orientados a empleo  
+- Técnicas avanzadas de optimización de queries SQL en grandes volúmenes de datos.
+- Inteligencia de tiempo avanzada y optimización de modelos complejos en DAX.
+- Construcción de proyectos de portafolio integradores que demuestren el flujo del dato de punta a punta.
 
 ---
 
 ## Objetivo
 
-Mi objetivo es insertarme profesionalmente como **Backend Java Developer**, participando en equipos donde se trabaje con sistemas reales, buenas prácticas y crecimiento técnico constante.
+Mi objetivo es insertarme profesionalmente como **Data Analyst o BI Developer**, integrándome en equipos donde pueda aport
